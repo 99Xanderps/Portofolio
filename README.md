@@ -63,12 +63,21 @@ I'm currently interested in:
 
 </div>
 
-## 🎯 CURRENTLY LEARNING
+## 🎓 PENDIDIKAN
 
-```text
-HTML / CSS       ███████████████████░  90%
-JavaScript       ███████████████░░░░░  75%
-PHP              █████████████░░░░░░░  65%
-Laravel          ███████████░░░░░░░░░  55%
-Networking       ████████████░░░░░░░░  60%
-Cybersecurity    ██████████░░░░░░░░░░  50%
+<div align="center">
+
+| 🎓 Jenjang | 🏫 Institusi | 📅 Tahun |
+|:---:|:---|:---:|
+| SMK | Rekayasa Perangkat Lunak (RPL) | 2026 - Sekarang |
+
+</div>
+
+### 📚 Fokus Pembelajaran
+
+- 💻 Pemrograman
+- 🌐 Web Development
+- 🗄️ Database
+- 🌐 Jaringan Komputer
+- 🔐 Cybersecurity
+- 🧠 Algoritma & Pemrograman
