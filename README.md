@@ -1,18 +1,14 @@
-<div align="center">⛏️ HELLO, I'M FAVIAN
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=HELLO%2C%20I'M%20FAVIAN&fontColor=ffffff&fontSize=35&fontAlignY=35&animation=fadeIn" width="100%"/>⛏️ Software Engineering Student • Web Developer • Cybersecurity Enthusiast
 
-"Software Engineering Student" • "Web Developer" • "Cybersecurity Enthusiast"
+</div>---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/></div>---
+🧑‍💻 ABOUT ME
 
-🟩 ABOUT ME
+Hi! I'm Favian Yudha Pratama, a Software Engineering student who enjoys learning technology and building things with code.
 
-«👋 Hello! I'm Favian Yudha Pratama.»
+I'm currently interested in:
 
-I'm a Software Engineering student who enjoys learning technology, programming, and building things with code.
-
-🎯 CURRENT INTERESTS
-
-- ⛏️ Web Development
+- 🌐 Web Development
 - 💻 Programming
 - 🔐 Cybersecurity
 - 🌐 Networking
@@ -20,13 +16,13 @@ I'm a Software Engineering student who enjoys learning technology, programming, 
 
 ---
 
-⚒️ TECHNOLOGIES
+⚡ TECHNOLOGIES
 
 <div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,cpp,java,git,github,vscode" /></div>---
 
-🧱 PROJECTS
+🚀 PROJECTS
 
-🧩 Project| 📖 Description| ⚙️ Technology
+Project| Description| Technology
 🌐 Portfolio| Personal portfolio website| HTML • CSS • JS
 🛒 Online Shop| Simple online shopping website| HTML • CSS • JS
 📚 Library System| Library management system| PHP • Laravel
@@ -44,24 +40,24 @@ I'm a Software Engineering student who enjoys learning technology, programming, 
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a></div>---
 
-🎓 EDUCATION
+🎓 PENDIDIKAN
 
-<div align="center">🎓 Jenjang| 🏫 Program| 📅 Tahun
-🏫 SMK| Rekayasa Perangkat Lunak (RPL)| 2026 - Sekarang
+<div align="center">🎓 Jenjang| 🏫 Institusi| 📅 Tahun
+SMK| Rekayasa Perangkat Lunak (RPL)| 2026 - Sekarang
 
-</div>📚 LEARNING FOCUS
+</div>📚 Fokus Pembelajaran
 
-- 💻 Programming
+- 💻 Pemrograman
 - 🌐 Web Development
 - 🗄️ Database
-- 🌐 Computer Networking
+- 🌐 Jaringan Komputer
 - 🔐 Cybersecurity
-- 🧠 Algorithms & Programming
+- 🧠 Algoritma & Pemrograman
 
 ---
 
-<div align="center">⛏️ "KEEP BUILDING. KEEP LEARNING."
+<div align="center">⛏️ KEEP BUILDING. KEEP LEARNING.
 
-"[ 💎 CODE ]" " [ 🔥 LEARN ]" " [ ⚔️ CREATE ]"
+"💎 CODE" • "🔥 LEARN" • "⚔️ CREATE"
 
 </div>
