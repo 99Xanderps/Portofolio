@@ -1,4 +1,6 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=HELLO%2C%20I'M%20FAVIAN&fontColor=ffffff&fontSize=35&fontAlignY=35&animation=fadeIn" width="100%"/>⛏️ Software Engineering Student • Web Developer • Cybersecurity Enthusiast
+<div align="center">⛏️ HELLO, I'M FAVIAN
+
+Software Engineering Student • Web Developer • Cybersecurity Enthusiast
 
 </div>---
 
@@ -56,8 +58,10 @@ SMK| Rekayasa Perangkat Lunak (RPL)| 2026 - Sekarang
 
 ---
 
-<div align="center">⛏️ KEEP BUILDING. KEEP LEARNING.
+<div align="center">
 
-"💎 CODE" • "🔥 LEARN" • "⚔️ CREATE"
+⛏️ KEEP BUILDING. KEEP LEARNING.
+
+[ 💎 CODE ]  [ 🔥 LEARN ]  [ ⚔️ CREATE ]
 
 </div>
